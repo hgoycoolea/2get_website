@@ -52,7 +52,7 @@ a, a:hover, a:focus { text-decoration: none; -webkit-transition: all 150ms ease-
 	background:#FFF url(../images/parallax/a3.jpg) no-repeat fixed right;
 	background-size:!important;
 	float:right;
-	position:relative;
+	width: 100%;
 }
 
 .parallax-four {
